@@ -17,3 +17,5 @@ The goal of this project is to develop a system that can convert doctor's handwr
 - Machine Learning Algorithms
 - Cron Jobs
 
+## Struggle Behind it:
+https://youtu.be/r2INwDlo8GY
